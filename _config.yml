@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "I am a Theoretical Physicist, working on Statistical Physics"
   location         : "Mumbai"
-  employer         :
+  employer         : "Tata Institute of Fundamental Research"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "tridib@theory.tifr.res.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
